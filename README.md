@@ -1,5 +1,3 @@
-# 💻 Lakshmi Sowjanya Gangumolu  
-
 🚀 **Data Engineer | Cloud & Big Data Expert | Machine Learning Enthusiast**  
 
 📍 **Chicago, IL**  
