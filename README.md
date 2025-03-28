@@ -35,8 +35,8 @@ I am a **Data Enthusiast** with **4+ years of IT experience** in designing **sca
 - Improved processing by **15%** with optimized MapReduce.
 - **Technologies:** PySpark, AWS EMR, MapReduce 
 
-📚 Education
+## 📚 Education
 DePaul University, College of Computing and Digital Media | Chicago, IL
 📆 Mar 2023 – Nov 2024
-🎓 M.S. in Data Science – Data Modeling/Warehousing and Database Administration | GPA: 3.8/4.0
-📖 Relevant Coursework: Data Engineering, Data Analysis, Machine Learning, Big Data Technologies, Cloud Computing
+**🎓 M.S. in Data Science**– Data Modeling/Warehousing and Database Administration | GPA: 3.8/4.0
+**📖 Relevant Coursework:** Data Engineering, Data Analysis, Machine Learning, Big Data Technologies, Cloud Computing
