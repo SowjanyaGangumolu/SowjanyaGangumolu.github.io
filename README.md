@@ -19,4 +19,24 @@ I am a **Data Enthusiast** with **4+ years of IT experience** in designing **sca
 ### [1. Vehicle Insurance Claim Fraud Prediction 🚗](https://github.com/SowjanyaGangumolu/vehicle-insurance-fraud)
 - Built ML models to detect fraudulent insurance claims using Kaggle’s dataset.
 - Used XGBoost, CNN, and oversampling techniques (SMOTE & ADASYN).
-- **Technologies:** Python, Scikit-Learn, XGBoost, TensorFlow  
+- **Technologies:** Python, Scikit-Learn, XGBoost, TensorFlow
+### [2. Sentiment Analysis of Twitter Data 📊](https://github.com/your-username/twitter-sentiment-analysis)
+- Analyzed 1.6M tweets to classify sentiments as Positive, Negative, or Neutral.
+- Used LSTM, BERT & achieved **82.47% accuracy**.
+- **Technologies:** Python, TensorFlow, NLTK, Transformers  
+
+### [3. Predicting Amazon Product Rating ⭐](https://github.com/your-username/amazon-rating-prediction)
+- Built a **PySpark ML pipeline** for rating predictions using Amazon review data.
+- Stored and processed data using **AWS S3, Athena & EMR**.
+- **Technologies:** PySpark, AWS, Logistic Regression  
+
+### [4. Movie Recommendation System 🎬](https://github.com/your-username/movie-recommendation)
+- Built a recommendation engine for **1M+ users** using **AWS & Hadoop**.
+- Improved processing by **15%** with optimized MapReduce.
+- **Technologies:** PySpark, AWS EMR, MapReduce 
+
+📚 Education
+DePaul University, College of Computing and Digital Media | Chicago, IL
+📆 Mar 2023 – Nov 2024
+🎓 M.S. in Data Science – Data Modeling/Warehousing and Database Administration | GPA: 3.8/4.0
+📖 Relevant Coursework: Data Engineering, Data Analysis, Machine Learning, Big Data Technologies, Cloud Computing
