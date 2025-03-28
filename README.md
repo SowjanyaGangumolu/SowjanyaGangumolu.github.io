@@ -13,3 +13,10 @@ I am a **Data Enthusiast** with **4+ years of IT experience** in designing **sca
 ✅ Work with **Big Data frameworks** like **Apache Spark, Kafka, and Hadoop**  
 ✅ Automate **data workflows and CI/CD pipelines** using **Terraform, Airflow, and Kubernetes**  
 ✅ Optimize **data lake and warehouse architectures** for real-time analytics  
+
+## 🔥 Featured Projects  
+
+### [1. Vehicle Insurance Claim Fraud Prediction 🚗](https://github.com/SowjanyaGangumolu/vehicle-insurance-fraud)
+- Built ML models to detect fraudulent insurance claims using Kaggle’s dataset.
+- Used XGBoost, CNN, and oversampling techniques (SMOTE & ADASYN).
+- **Technologies:** Python, Scikit-Learn, XGBoost, TensorFlow  
