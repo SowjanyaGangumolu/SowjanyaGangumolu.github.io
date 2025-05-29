@@ -43,6 +43,5 @@ I am a **Data Enthusiast** with **4+ years of IT experience** in designing **sca
 
 ## 📫 **Connect with Me!**
 📧 Email: [sowjanya.gangumolu@gmail.com](mailto:sowjanya.gangumolu@gmail.com)  
-🔗 LinkedIn: [www.linkedin.com/in/g-sowjanya](www.linkedin.com/in/g-sowjanya)  
-🌐 GitHub: [github.com/LakshmiSowjanya](https://github.com/LakshmiSowjanya)  
+🔗 LinkedIn: [www.linkedin.com/in/g-sowjanya](www.linkedin.com/in/g-sowjanya)   
 
