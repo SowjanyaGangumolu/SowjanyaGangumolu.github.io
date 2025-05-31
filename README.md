@@ -4,7 +4,7 @@
 
 📍 **Chicago, IL**  
 📧 **sowjanya.gangumolu@gmail.com**  
-🔗 **LinkedIn** (http://www.linkedin.com/in/g-sowjanya)
+🔗 [**LinkedIn**](http://www.linkedin.com/in/g-sowjanya)
 
 ## 🔹 About Me  
 I am a **Data Enthusiast** with **4.5+ years of IT experience** in designing **scalable ETL pipelines, cloud data solutions, and real-time analytics systems**. With an **M.S. in Data Science from DePaul University**, I have deep expertise in **big data processing, data analaysis, machine learning, cloud computing, and data architecture**.  
@@ -23,6 +23,7 @@ I am a **Data Enthusiast** with **4.5+ years of IT experience** in designing **s
 - Built ML models to detect fraudulent insurance claims using Kaggle’s dataset.
 - Used XGBoost, CNN, and oversampling techniques (SMOTE & ADASYN).
 - **Technologies:** Python, Scikit-Learn, XGBoost, TensorFlow
+
 ### [2. Sentiment Analysis of Twitter Data 📊](https://github.com/SowjanyaGangumolu/Twitter-Data-Analysis)
 - Analyzed 1.6M tweets to classify sentiments as Positive, Negative, or Neutral.
 - Used LSTM, BERT & achieved **82.47% accuracy**.
