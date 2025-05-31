@@ -1,6 +1,6 @@
 
 
-🚀 **Data Engineer | Cloud & Big Data Expert | Machine Learning Enthusiast**  
+**Data Engineer | Cloud & Big Data Expert | Machine Learning Enthusiast**  
 
 📍 **Chicago, IL**  
 📧 **sowjanya.gangumolu@gmail.com**  
