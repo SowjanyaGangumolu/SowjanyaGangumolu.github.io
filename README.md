@@ -1,6 +1,6 @@
 
 
-**Data Engineer | Cloud & Big Data Expert | Machine Learning Enthusiast**  
+💼 **Data Engineer – Cloud & Big Data Expert – Machine Learning Enthusiast**
 
 📍 **Chicago, IL**  
 📧 **sowjanya.gangumolu@gmail.com**  
@@ -29,7 +29,7 @@ I am a **Data Enthusiast** with **4.5+ years of IT experience** in designing **s
 - Used LSTM, BERT & achieved **82.47% accuracy**.
 - **Technologies:** Python, TensorFlow, NLTK, Transformers  
 
-### [3. Predicting Amazon Product Rating ⭐](https://github.com/your-username/amazon-rating-prediction)
+### [3. Predicting Amazon Product Rating ⭐](https://github.com/SowjanyaGangumolu/Predicting-Amazon-Product-Rating)
 - Built a **PySpark ML pipeline** for rating predictions using Amazon review data.
 - Stored and processed data using **AWS S3, Athena & EMR**.
 - **Technologies:** PySpark, AWS, Logistic Regression  
