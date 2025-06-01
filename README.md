@@ -1,8 +1,7 @@
 <table>
 <tr>
 <td>
-
-# Sowjanya Gangumolu  
+ 
 💼 Data Engineer – Cloud & Big Data Expert – Machine Learning Enthusiast  
 📍 Chicago, IL  
 📧 sowjanya.gangumolu@gmail.com  
