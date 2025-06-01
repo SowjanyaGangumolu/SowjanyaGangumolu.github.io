@@ -1,10 +1,19 @@
+<table>
+<tr>
+<td>
 
+# Sowjanya Gangumolu  
+💼 Data Engineer – Cloud & Big Data Expert – Machine Learning Enthusiast  
+📍 Chicago, IL  
+📧 sowjanya.gangumolu@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/g-sowjanya)
 
-💼 **Data Engineer – Cloud & Big Data Expert – Machine Learning Enthusiast**
-
-📍 **Chicago, IL**  
-📧 **sowjanya.gangumolu@gmail.com**  
-🔗 [**LinkedIn**](http://www.linkedin.com/in/g-sowjanya)
+</td>
+<td>
+<img src="aws-badge.png" alt="Sowjanya Gangumolu" width="150"/>
+</td>
+</tr>
+</table>
 
 ## 🔹 About Me  
 I am a **Data Enthusiast** with **4.5+ years of IT experience** in designing **scalable ETL pipelines, cloud data solutions, and real-time analytics systems**. With an **M.S. in Data Science from DePaul University**, I have deep expertise in **big data processing, data analaysis, machine learning, cloud computing, and data architecture**.  
@@ -39,13 +48,20 @@ I am a **Data Enthusiast** with **4.5+ years of IT experience** in designing **s
 - Improved processing by **15%** with optimized MapReduce.
 - **Technologies:** PySpark, AWS EMR, MapReduce 
 
+## 📜 Certifications  
+- [AWS Certified Data Engineer Associate](https://www.credly.com/badges/09590936-d874-4a71-ad30-d2cb0f7ac9a3/public_url) 
+
 ## 📚 Education  
 **DePaul University, College of Computing and Digital Media** | Chicago, IL  
 📆 *Mar 2023 – Nov 2024*  
 🎓 **M.S. in Data Science** – *Data Modeling/Warehousing and Database Administration* | **GPA: 3.8/4.0**  
 📖 **Relevant Coursework:** Data Engineering, Data Analysis, Machine Learning, Big Data Technologies, Cloud Computing 
 
+## 🔧 Tech Stack  
+Python | SQl | AWS | Azure | Terraform | Kubernetes | TensorFlow | Power BI | Tableau | Kafka | Hadoop  
+
 ## 📫 **Connect with Me!**
 📧 Email: [sowjanya.gangumolu@gmail.com](mailto:sowjanya.gangumolu@gmail.com)  
-🔗 LinkedIn: [www.linkedin.com/in/g-sowjanya](www.linkedin.com/in/g-sowjanya)   
+🔗 LinkedIn: [www.linkedin.com/in/g-sowjanya](www.linkedin.com/in/g-sowjanya)  
+🌐 [Portfolio](https://sowjanyagangumolu.github.io)  
 
