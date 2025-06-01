@@ -1,17 +1,16 @@
-<table>
-<tr>
-<td>
- 
-💼 Data Engineer – Cloud & Big Data Expert – Machine Learning Enthusiast  
-📍 Chicago, IL  
-📧 sowjanya.gangumolu@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/g-sowjanya)
 
-</td>
-<td>
-<img src="aws-badge.png" alt="Sowjanya Gangumolu" width="150"/>
-</td>
-</tr>
+<table>
+  <tr>
+    <td>
+      <strong>💼 Data Engineer – Cloud & Big Data Expert – Machine Learning Enthusiast</strong><br>
+      <strong>📍 Chicago, IL</strong><br>
+      <strong>📧 <a href="mailto:sowjanya.gangumolu@gmail.com">sowjanya.gangumolu@gmail.com</a></strong><br>
+      <strong>🔗 <a href="https://www.linkedin.com/in/g-sowjanya">LinkedIn</a></strong>
+    </td>
+    <td>
+      <img src="aws-badge.png" alt="Sowjanya Gangumolu" width="100"/>
+    </td>
+  </tr>
 </table>
 
 ## 🔹 About Me  
