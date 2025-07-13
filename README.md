@@ -24,6 +24,33 @@ I am a **Data Enthusiast** with **4.5+ years of IT experience** in designing **s
 ✅ Optimize **data lake and warehouse architectures** for real-time analytics  
 ✅ Create **interactive dashboards and visualizations** using **Power BI** and **Tableau**
 
+## 🔧 Tech Stack  
+Python | SQL | AWS | Azure | Snowflake | Terraform | Kubernetes | TensorFlow | Power BI | Tableau | Kafka | Hadoop | Airflow | DBT 
+
+## 💼 Professional Experience
+
+### **Data Analyst/Engineer** – *Student Center, DePaul University* | Chicago, IL  
+📆 *Feb 2024 – Nov 2024*  
+- Designed and managed ETL pipelines using **Azure Data Factory** and **Azure Synapse**.  
+- Automated compliance reporting for 21K+ records using **Azure Logic Apps** and **Functions**.  
+- Built interactive **Power BI dashboards** to track enrollment, aid, and performance in real time.  
+- Implemented **CI/CD pipelines** with Azure DevOps for data workflow automation.  
+- Tools: Azure ADF, Synapse, Power BI, Python, SQL, Azure DevOps  
+
+### **Data Engineer** – *Cardinal Healthcare, Tata Consultancy Services* | Hyderabad, India  
+📆 *Jul 2022 – Jan 2023*  
+- Built ETL pipelines using **Azure Databricks** (PySpark) based on **Medallion architecture**.  
+- Reduced report runtime by 40% using optimized queries in **Azure Synapse**.  
+- Integrated real-time data streams via **Event Hubs** and **Stream Analytics**.  
+- Tools: Databricks, Delta Lake, Synapse, ADF, Event Hubs, SQL Server  
+
+### **Data Engineer** – *Novartis Pharmaceuticals, Infosys* | Hyderabad, India  
+📆 *May 2019 – Jul 2022*  
+- Migrated terabytes of data to **AWS** using **Glue, Lambda, Redshift, S3**, and **Kinesis**.  
+- Built validation frameworks in **Python** for schema checks and audits.  
+- Integrated APIs and streaming data with **Kafka**, improving monitoring for clinical trials.  
+- Tools: AWS Glue, Redshift, S3, Lambda, Kinesis, Kafka, SQL Server, Teradata  
+
 ## 🔥 Featured Projects  
 
 ### [1. Vehicle Insurance Claim Fraud Prediction 🚗](https://github.com/SowjanyaGangumolu/vehicle-insurance-fraud)
@@ -54,9 +81,6 @@ I am a **Data Enthusiast** with **4.5+ years of IT experience** in designing **s
 📆 *Mar 2023 – Nov 2024*  
 🎓 **M.S. in Data Science** – *Data Modeling/Warehousing and Database Administration* | **GPA: 3.8/4.0**  
 📖 **Relevant Coursework:** Data Engineering, Data Analysis, Machine Learning, Big Data Technologies, Cloud Computing 
-
-## 🔧 Tech Stack  
-Python | SQl | AWS | Azure | Terraform | Kubernetes | TensorFlow | Power BI | Tableau | Kafka | Hadoop  
 
 ## 📫 **Connect with Me!**
 📧 Email: [sowjanya.gangumolu@gmail.com](mailto:sowjanya.gangumolu@gmail.com)  
