@@ -53,17 +53,17 @@ Python | SQL | AWS | Azure | Snowflake | Terraform | Kubernetes | TensorFlow | P
 
 ## 🔥 Featured Projects  
 
-### [1. Vehicle Insurance Claim Fraud Prediction 🚗]
+### [1. Vehicle Insurance Claim Fraud Prediction 🚗](https://github.com/SowjanyaGangumolu/vehicle-insurance-fraud)
 - Built ML models to detect fraudulent insurance claims using Kaggle’s dataset.
 - Used XGBoost, CNN, and oversampling techniques (SMOTE & ADASYN).
 - **Technologies:** Python, Scikit-Learn, XGBoost, TensorFlow
 
-### [2. Sentiment Analysis of Twitter Data 📊]
+### [2. Sentiment Analysis of Twitter Data 📊](https://github.com/SowjanyaGangumolu/Twitter-Data-Analysis)
 - Analyzed 1.6M tweets to classify sentiments as Positive, Negative, or Neutral.
 - Used LSTM, BERT & achieved **82.47% accuracy**.
 - **Technologies:** Python, TensorFlow, NLTK, Transformers  
 
-### [3. Predicting Amazon Product Rating ⭐]
+### [3. Predicting Amazon Product Rating ⭐](https://github.com/SowjanyaGangumolu/Predicting-Amazon-Product-Rating)
 - Built a **PySpark ML pipeline** for rating predictions using Amazon review data.
 - Stored and processed data using **AWS S3, Athena & EMR**.
 - **Technologies:** PySpark, AWS, Logistic Regression  
