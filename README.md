@@ -53,22 +53,22 @@ Python | SQL | AWS | Azure | Snowflake | Terraform | Kubernetes | TensorFlow | P
 
 ## 🔥 Featured Projects  
 
-### [1. Vehicle Insurance Claim Fraud Prediction 🚗](https://github.com/SowjanyaGangumolu/vehicle-insurance-fraud)
+### [1. Vehicle Insurance Claim Fraud Prediction 🚗]
 - Built ML models to detect fraudulent insurance claims using Kaggle’s dataset.
 - Used XGBoost, CNN, and oversampling techniques (SMOTE & ADASYN).
 - **Technologies:** Python, Scikit-Learn, XGBoost, TensorFlow
 
-### [2. Sentiment Analysis of Twitter Data 📊](https://github.com/SowjanyaGangumolu/Twitter-Data-Analysis)
+### [2. Sentiment Analysis of Twitter Data 📊]
 - Analyzed 1.6M tweets to classify sentiments as Positive, Negative, or Neutral.
 - Used LSTM, BERT & achieved **82.47% accuracy**.
 - **Technologies:** Python, TensorFlow, NLTK, Transformers  
 
-### [3. Predicting Amazon Product Rating ⭐](https://github.com/SowjanyaGangumolu/Predicting-Amazon-Product-Rating)
+### [3. Predicting Amazon Product Rating ⭐]
 - Built a **PySpark ML pipeline** for rating predictions using Amazon review data.
 - Stored and processed data using **AWS S3, Athena & EMR**.
 - **Technologies:** PySpark, AWS, Logistic Regression  
 
-### [4. Movie Recommendation System 🎬](https://github.com/your-username/movie-recommendation)
+### [4. Movie Recommendation System 🎬]
 - Built a recommendation engine for **1M+ users** using **AWS & Hadoop**.
 - Improved processing by **15%** with optimized MapReduce.
 - **Technologies:** PySpark, AWS EMR, MapReduce 
