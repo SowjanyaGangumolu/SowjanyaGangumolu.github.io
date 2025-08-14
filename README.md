@@ -4,7 +4,7 @@
     <td>
       <strong>💼 Data Engineer – Cloud & Big Data Expert – Machine Learning Enthusiast</strong><br>
       <strong>📍 Chicago, IL</strong><br>
-      <strong>📧 <a href="mailto:sowjanya.gangumolu@gmail.com">sowjanya.gangumolu@gmail.com</a></strong><br>
+      <strong>📧 <a href="mailto:sowjanya.gangumolu21@gmail.com">sowjanya.gangumolu21@gmail.com</a></strong><br>
       <strong>🔗 <a href="https://www.linkedin.com/in/g-sowjanya">LinkedIn</a></strong>
     </td>
     <td>
@@ -14,7 +14,7 @@
 </table>
 
 ## 🔹 About Me  
-I am a **Data Enthusiast** with **4.5+ years of IT experience** in designing **scalable ETL pipelines, cloud data solutions, and real-time analytics systems**. With an **M.S. in Data Science from DePaul University**, I have deep expertise in **big data processing, data analaysis, machine learning, cloud computing, and data architecture**.  
+I am a **Data & AI Enthusiast ** with close to **6 years of IT experience** in designing **scalable ETL pipelines, cloud data solutions, and real-time analytics systems**. With an **M.S. in Data Science from DePaul University**, I have deep expertise in **big data processing, data analaysis, machine learning, cloud computing, and data architecture**.  
 
 ### **What I Do:**  
 ✅ Build **efficient ETL/ELT pipelines** for structured and unstructured data  
@@ -83,7 +83,7 @@ Python | SQL | AWS | Azure | Snowflake | Terraform | Kubernetes | TensorFlow | P
 📖 **Relevant Coursework:** Data Engineering, Data Analysis, Machine Learning, Big Data Technologies, Cloud Computing 
 
 ## 📫 **Connect with Me!**
-📧 Email: [sowjanya.gangumolu@gmail.com](mailto:sowjanya.gangumolu@gmail.com)  
+📧 Email: [sowjanya.gangumolu21@gmail.com](mailto:sowjanya.gangumolu21@gmail.com)  
 🔗 LinkedIn: [www.linkedin.com/in/g-sowjanya](www.linkedin.com/in/g-sowjanya)  
 🌐 [Portfolio](https://sowjanyagangumolu.github.io)  
 
