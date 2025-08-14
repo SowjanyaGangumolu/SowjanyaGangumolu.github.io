@@ -14,7 +14,7 @@
 </table>
 
 ## 🔹 About Me  
-I am a **Data & AI Enthusiast ** with close to **6 years of IT experience** in designing **scalable ETL pipelines, cloud data solutions, and real-time analytics systems**. With an **M.S. in Data Science from DePaul University**, I have deep expertise in **big data processing, data analaysis, machine learning, cloud computing, and data architecture**.  
+I am a **Data & AI Enthusiast** with close to **6 years of IT experience** in designing **scalable ETL pipelines, cloud data solutions, and real-time analytics systems**. With an **M.S. in Data Science from DePaul University**, I have deep expertise in **big data processing, data analaysis, machine learning, cloud computing, and data architecture**.  
 
 ### **What I Do:**  
 ✅ Build **efficient ETL/ELT pipelines** for structured and unstructured data  
