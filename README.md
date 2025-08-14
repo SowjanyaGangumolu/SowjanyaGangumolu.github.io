@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <strong>💼 Data Engineer – Cloud & Big Data Expert – Machine Learning Enthusiast</strong><br>
+      <strong>💼 AI & Data Engineer – Cloud & Big Data Expert – Machine Learning Enthusiast</strong><br>
       <strong>📍 Chicago, IL</strong><br>
       <strong>📧 <a href="mailto:sowjanya.gangumolu21@gmail.com">sowjanya.gangumolu21@gmail.com</a></strong><br>
       <strong>🔗 <a href="https://www.linkedin.com/in/g-sowjanya">LinkedIn</a></strong>
@@ -20,15 +20,23 @@ I am a **Data & AI Enthusiast** with close to **6 years of IT experience** in de
 ✅ Build **efficient ETL/ELT pipelines** for structured and unstructured data  
 ✅ Develop **cloud-native solutions** on **AWS and Azure**  
 ✅ Work with **Big Data frameworks** like **Apache Spark, Kafka, and Hadoop**  
+✅ Design & deploy **AI/ML models** for predictive analytics, NLP, and classification
 ✅ Automate **data workflows and CI/CD pipelines** using **Terraform, Airflow, and Kubernetes**  
 ✅ Optimize **data lake and warehouse architectures** for real-time analytics  
 ✅ Create **interactive dashboards and visualizations** using **Power BI** and **Tableau**
 
 ## 🔧 Tech Stack  
-Python | SQL | AWS | Azure | Snowflake | Terraform | Kubernetes | TensorFlow | Power BI | Tableau | Kafka | Hadoop | Airflow | DBT 
+Python | SQL | AWS | Azure | AI & ML | Snowflake | Terraform | Kubernetes | TensorFlow | Power BI | Tableau | Kafka | Hadoop | Airflow | DBT 
+
+## 📜 Certifications  
+- [AWS Certified Data Engineer Associate](https://www.credly.com/badges/09590936-d874-4a71-ad30-d2cb0f7ac9a3/public_url)
+- [Databricks Generative AI Fundamentals](https://credentials.databricks.com/0c23530b-6322-4b31-b42d-3910ee979d2f#acc.azlNIU0L)
 
 ## 💼 Professional Experience
-
+### State Farm – AI-Powered Data Engineer 
+📆 *Jan 2025 – Present* 
+- Designed enterprise-grade **ETL pipelines**, automated reporting, and AI-driven classification using **Azure AI** Services.
+- Migrated legacy reporting tools to cloud-native BI, enabling role-based analytics and faster decision-making.
 ### **Data Analyst/Engineer** – *Student Center, DePaul University* | Chicago, IL  
 📆 *Feb 2024 – Nov 2024*  
 - Designed and managed ETL pipelines using **Azure Data Factory** and **Azure Synapse**.  
@@ -72,9 +80,6 @@ Python | SQL | AWS | Azure | Snowflake | Terraform | Kubernetes | TensorFlow | P
 - Built a recommendation engine for **1M+ users** using **AWS & Hadoop**.
 - Improved processing by **15%** with optimized MapReduce.
 - **Technologies:** PySpark, AWS EMR, MapReduce 
-
-## 📜 Certifications  
-- [AWS Certified Data Engineer Associate](https://www.credly.com/badges/09590936-d874-4a71-ad30-d2cb0f7ac9a3/public_url) 
 
 ## 📚 Education  
 **DePaul University, College of Computing and Digital Media** | Chicago, IL  
