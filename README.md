@@ -19,8 +19,8 @@ I am a **Data & AI Enthusiast** with close to **6 years of IT experience** in de
 ### **What I Do:**  
 ✅ Build **efficient ETL/ELT pipelines** for structured and unstructured data  
 ✅ Develop **cloud-native solutions** on **AWS and Azure**  
-✅ Work with **Big Data frameworks** like **Apache Spark, Kafka, and Hadoop**  
 ✅ Design & deploy **AI/ML models** for predictive analytics, NLP, and classification
+✅ Work with **Big Data frameworks** like **Apache Spark, Kafka, and Hadoop**  
 ✅ Automate **data workflows and CI/CD pipelines** using **Terraform, Airflow, and Kubernetes**  
 ✅ Optimize **data lake and warehouse architectures** for real-time analytics  
 ✅ Create **interactive dashboards and visualizations** using **Power BI** and **Tableau**
