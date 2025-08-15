@@ -32,33 +32,22 @@ Python | SQL | AWS | Azure | AI & ML | Snowflake | Terraform | Kubernetes | Tens
 - [AWS Certified Data Engineer Associate](https://www.credly.com/badges/09590936-d874-4a71-ad30-d2cb0f7ac9a3/public_url)
 - [Databricks Generative AI Fundamentals](https://credentials.databricks.com/0c23530b-6322-4b31-b42d-3910ee979d2f#acc.azlNIU0L)
 
-## 💼 Professional Experience
-### State Farm – AI-Powered Data Engineer 
-📆 *Jan 2025 – Present* 
+## 💼 Career Highlights
+### State Farm – AI-Powered Data Solutions (2025 – Present)
 - Designed enterprise-grade **ETL pipelines**, automated reporting, and AI-driven classification using **Azure AI** Services.
 - Migrated legacy reporting tools to cloud-native BI, enabling role-based analytics and faster decision-making.
-### **Data Analyst/Engineer** – *Student Center, DePaul University* | Chicago, IL  
-📆 *Feb 2024 – Nov 2024*  
-- Designed and managed ETL pipelines using **Azure Data Factory** and **Azure Synapse**.  
-- Automated compliance reporting for 21K+ records using **Azure Logic Apps** and **Functions**.  
-- Built interactive **Power BI dashboards** to track enrollment, aid, and performance in real time.  
-- Implemented **CI/CD pipelines** with Azure DevOps for data workflow automation.  
-- Tools: Azure ADF, Synapse, Power BI, Python, SQL, Azure DevOps  
-
-### **Data Engineer** – *Cardinal Healthcare, Tata Consultancy Services* | Hyderabad, India  
-📆 *Jul 2022 – Jan 2023*  
-- Built ETL pipelines using **Azure Databricks** (PySpark) based on **Medallion architecture**.  
-- Reduced report runtime by 40% using optimized queries in **Azure Synapse**.  
-- Integrated real-time data streams via **Event Hubs** and **Stream Analytics**.  
-- Tools: Databricks, Delta Lake, Synapse, ADF, Event Hubs, SQL Server  
-
-### **Data Engineer** – *Novartis Pharmaceuticals, Infosys* | Hyderabad, India  
-📆 *May 2019 – Jul 2022*  
-- Migrated terabytes of data to **AWS** using **Glue, Lambda, Redshift, S3**, and **Kinesis**.  
-- Built validation frameworks in **Python** for schema checks and audits.  
-- Integrated APIs and streaming data with **Kafka**, improving monitoring for clinical trials.  
-- Tools: AWS Glue, Redshift, S3, Lambda, Kinesis, Kafka, SQL Server, Teradata  
-
+### DePaul University – Data Automation & Reporting (2024)
+- Automated federal compliance reporting for 21K+ student records using serverless Azure workflows.
+- Delivered real-time dashboards for enrollment and academic performance monitoring.
+### Cardinal Healthcare – Predictive Analytics on Azure (2022–2023) 
+- Built PySpark ML pipelines for forecasting and integrated generative AI for automated summaries.
+- Implemented streaming pipelines for near real-time hospital inventory tracking.
+### Novartis Pharmaceuticals – Real-Time Clinical Data (2019–2022)  
+- Migrated terabytes of clinical trial data to AWS for scalable analytics.
+- Developed NLP solutions for extracting medical entities from unstructured notes.
+### Tecplix – NLP & Forecasting Models (Intern | 2018–2019)
+- Built BERT-based news summarization and geospatial time series forecasting models.
+  
 ## 🔥 Featured Projects  
 
 ### [1. Vehicle Insurance Claim Fraud Prediction 🚗](https://github.com/SowjanyaGangumolu/vehicle-insurance-fraud)
