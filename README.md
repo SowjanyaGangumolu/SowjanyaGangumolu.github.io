@@ -17,13 +17,14 @@
 I am a **Data & AI Enthusiast** with close to **6 years of IT experience** in designing **scalable ETL pipelines, cloud data solutions, and real-time analytics systems**. With an **M.S. in Data Science from DePaul University**, I have deep expertise in **big data processing, data analaysis, machine learning, cloud computing, and data architecture**.  
 
 ### **What I Do:**  
-✅ Build **efficient ETL/ELT pipelines** for structured and unstructured data  
-✅ Develop **cloud-native solutions** on **AWS and Azure**  
-✅ Design & deploy **AI/ML models** for **predictive analystics, NLP and classification**
-✅ Work with **Big Data frameworks** like **Apache Spark, Kafka, and Hadoop**  
-✅ Automate **data workflows and CI/CD pipelines** using **Terraform, Airflow, and Kubernetes**  
-✅ Optimize **data lake and warehouse architectures** for real-time analytics  
-✅ Create **interactive dashboards and visualizations** using **Power BI** and **Tableau**
+- Build **efficient ETL/ELT pipelines** for structured and unstructured data  
+- Design & deploy **AI/ML models** for **predictive analytics, NLP, and classification**  
+- Develop **cloud-native solutions** on **AWS** and **Azure**  
+- Work with **Big Data frameworks** like **Apache Spark, Kafka, and Hadoop**  
+- Automate **data workflows and CI/CD pipelines** using **Terraform, Airflow, and Kubernetes**  
+- Optimize **data lake and warehouse architectures** for real-time analytics  
+- Create **interactive dashboards and visualizations** using **Power BI** and **Tableau**  
+
 
 ## Tech Stack  
 Python | SQL | AWS | Azure | AI & ML | Snowflake | Terraform | Kubernetes | TensorFlow | Power BI | Tableau | Kafka | Hadoop | Airflow | DBT 
