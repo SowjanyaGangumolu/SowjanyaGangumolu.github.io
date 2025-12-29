@@ -34,7 +34,7 @@ Python | SQL | AWS | Azure | AI & ML | Snowflake | Terraform | Kubernetes | Tens
 - [Databricks Generative AI Fundamentals](https://credentials.databricks.com/0c23530b-6322-4b31-b42d-3910ee979d2f#acc.azlNIU0L)
 
 ## 💼 Career Highlights
-### State Farm – AI-Powered Data Solutions (2025 – Present)
+### 4Sphere Software Solutions – AI-Powered Data Solutions (2025 – Present)
 - Designed enterprise-grade **ETL pipelines**, automated reporting, and AI-driven classification using **Azure AI** Services.
 - Migrated legacy reporting tools to cloud-native BI, enabling role-based analytics and faster decision-making.
 ### DePaul University – Data Automation & Reporting (2024)
