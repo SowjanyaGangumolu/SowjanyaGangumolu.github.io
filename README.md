@@ -35,7 +35,7 @@ Python | SQL | AWS | Azure | AI & ML | Snowflake | Terraform | Kubernetes | Tens
 
 ## 💼 Career Highlights
 ### 4Sphere Software Solutions – AI-Powered Data Solutions (2025 – Present)
-- Designed enterprise-grade **ETL pipelines**, automated reporting, and AI-driven classification using **Azure AI** Services.
+- Designed enterprise-grade **ETL pipelines**, automated reporting, and AI-driven classification.
 - Migrated legacy reporting tools to cloud-native BI, enabling role-based analytics and faster decision-making.
 ### DePaul University – Data Automation & Reporting (2024)
 - Automated federal compliance reporting for 21K+ student records using serverless Azure workflows.
