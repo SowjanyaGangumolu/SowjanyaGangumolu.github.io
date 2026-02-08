@@ -17,6 +17,7 @@
             --text-secondary: #94a3b8;
             --text-muted: #64748b;
         }
+        
 
         * {
             margin: 0;
@@ -544,10 +545,10 @@
 
         /* Contact Section */
         .contact-grid {
-            max-width: 800px;
+            max-width: 900px;
             margin: 0 auto;
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
             gap: 2rem;
         }
 
@@ -713,6 +714,7 @@
             <li><a href="#skills">Skills</a></li>
             <li><a href="#projects">Projects</a></li>
             <li><a href="#experience">Experience</a></li>
+            <li><a href="#education">Education</a></li>
             <li><a href="#contact">Contact</a></li>
         </ul>
     </nav>
@@ -720,22 +722,18 @@
     <!-- Hero Section -->
     <section class="hero" id="about">
         <div class="hero-content">
-            <div class="hero-badge">📍 Chicago, IL • Available for Opportunities</div>
+            <div class="hero-badge">📍 Chicago, IL • Open to Opportunities Across USA </div>
             <h1>
                 Hi, I'm <span class="gradient-text">Sowjanya</span><br>
                 Data & AI Engineer
             </h1>
             <p class="hero-description">
-                Building scalable data pipelines, cloud-native solutions, and AI-powered systems that transform raw data into actionable insights. 6 years of experience turning complex data challenges into elegant solutions.
+                AWS Certified Data Engineer specializing in cloud-native data solutions, AI/ML integrations, and real-time analytics. Expert in building HIPAA-compliant pipelines across AWS & Azure for healthcare, insurance, and pharmaceuticals. Proven track record of migrating enterprise systems to cloud and delivering predictive analytics at scale.
             </p>
             <div class="hero-stats">
                 <div class="stat">
                     <span class="stat-number">6+</span>
                     <span class="stat-label">Years Experience</span>
-                </div>
-                <div class="stat">
-                    <span class="stat-number">15+</span>
-                    <span class="stat-label">Major Projects</span>
                 </div>
                 <div class="stat">
                     <span class="stat-number">5</span>
@@ -745,10 +743,14 @@
                     <span class="stat-number">2</span>
                     <span class="stat-label">Certifications</span>
                 </div>
+                <div class="stat">
+                    <span class="stat-number">3.8</span>
+                    <span class="stat-label">GPA (MS Data Science)</span>
+                </div>
             </div>
             <div class="hero-cta">
                 <a href="#projects" class="btn btn-primary">View My Work →</a>
-                <a href="#contact" class="btn btn-secondary">Get In Touch</a>
+                <a href="mailto:sowjanya.gangumolu21@gmail.com?subject=Opportunity Inquiry" class="btn btn-secondary">Get In Touch</a>
             </div>
         </div>
     </section>
@@ -764,43 +766,85 @@
         </div>
         <div class="skills-grid">
             <div class="skill-category">
-                <h3>☁️ Cloud & Infrastructure</h3>
+                <h3>☁️ Cloud Platforms</h3>
                 <div class="skill-tags">
                     <span class="skill-tag">AWS</span>
                     <span class="skill-tag">Azure</span>
-                    <span class="skill-tag">Terraform</span>
-                    <span class="skill-tag">Kubernetes</span>
-                    <span class="skill-tag">Docker</span>
+                    <span class="skill-tag">Snowflake</span>
+                    <span class="skill-tag">Databricks</span>
+                    <span class="skill-tag">Microsoft Fabric</span>
                 </div>
             </div>
             <div class="skill-category">
-                <h3>🔥 Big Data & Processing</h3>
+                <h3>💻 Programming & Data</h3>
+                <div class="skill-tags">
+                    <span class="skill-tag">Python</span>
+                    <span class="skill-tag">SQL</span>
+                    <span class="skill-tag">PySpark</span>
+                    <span class="skill-tag">Scala</span>
+                    <span class="skill-tag">R</span>
+                </div>
+            </div>
+            <div class="skill-category">
+                <h3>🔧 ETL & Orchestration</h3>
+                <div class="skill-tags">
+                    <span class="skill-tag">Azure Data Factory</span>
+                    <span class="skill-tag">AWS Glue</span>
+                    <span class="skill-tag">dbt</span>
+                    <span class="skill-tag">Airflow</span>
+                    <span class="skill-tag">SSIS</span>
+                    <span class="skill-tag">Apache NiFi</span>
+                </div>
+            </div>
+            <div class="skill-category">
+                <h3>🔥 Big Data & Streaming</h3>
                 <div class="skill-tags">
                     <span class="skill-tag">Apache Spark</span>
                     <span class="skill-tag">Kafka</span>
-                    <span class="skill-tag">Hadoop</span>
-                    <span class="skill-tag">Airflow</span>
-                    <span class="skill-tag">DBT</span>
+                    <span class="skill-tag">Delta Lake</span>
+                    <span class="skill-tag">Kinesis</span>
+                    <span class="skill-tag">Event Hubs</span>
                 </div>
             </div>
             <div class="skill-category">
-                <h3>🤖 AI & Machine Learning</h3>
+                <h3>🤖 AI & ML</h3>
                 <div class="skill-tags">
-                    <span class="skill-tag">TensorFlow</span>
-                    <span class="skill-tag">PyTorch</span>
-                    <span class="skill-tag">Scikit-Learn</span>
+                    <span class="skill-tag">AWS SageMaker</span>
+                    <span class="skill-tag">Azure OpenAI</span>
+                    <span class="skill-tag">Snowflake Cortex AI</span>
                     <span class="skill-tag">NLP</span>
-                    <span class="skill-tag">Deep Learning</span>
+                    <span class="skill-tag">Scikit-learn</span>
+                    <span class="skill-tag">XGBoost</span>
                 </div>
             </div>
             <div class="skill-category">
-                <h3>💾 Data & Analytics</h3>
+                <h3>📊 BI & Visualization</h3>
                 <div class="skill-tags">
-                    <span class="skill-tag">Snowflake</span>
-                    <span class="skill-tag">SQL</span>
-                    <span class="skill-tag">Python</span>
                     <span class="skill-tag">Power BI</span>
+                    <span class="skill-tag">DAX</span>
+                    <span class="skill-tag">SSRS</span>
                     <span class="skill-tag">Tableau</span>
+                    <span class="skill-tag">Analysis Services</span>
+                </div>
+            </div>
+            <div class="skill-category">
+                <h3>🗄️ Databases</h3>
+                <div class="skill-tags">
+                    <span class="skill-tag">Redshift</span>
+                    <span class="skill-tag">Synapse</span>
+                    <span class="skill-tag">SQL Server</span>
+                    <span class="skill-tag">DynamoDB</span>
+                    <span class="skill-tag">Oracle</span>
+                </div>
+            </div>
+            <div class="skill-category">
+                <h3>⚙️ DevOps & IaC</h3>
+                <div class="skill-tags">
+                    <span class="skill-tag">Terraform</span>
+                    <span class="skill-tag">Azure DevOps</span>
+                    <span class="skill-tag">GitHub Actions</span>
+                    <span class="skill-tag">Jenkins</span>
+                    <span class="skill-tag">CI/CD</span>
                 </div>
             </div>
         </div>
@@ -922,9 +966,9 @@
                         <span class="tech-badge">AWS EMR</span>
                         <span class="tech-badge">MapReduce</span>
                     </div>
-                    <a href="#contact" class="project-link">
+                    <!-- <a href="#contact" class="project-link">
                         Contact for Details →
-                    </a>
+                    </a> -->
                 </div>
             </div>
         </div>
@@ -943,13 +987,14 @@
             <div class="timeline-item">
                 <div class="timeline-dot"></div>
                 <div class="timeline-content">
-                    <h3 class="timeline-company">4Sphere Software Solutions</h3>
+                    <h3 class="timeline-company">State Farm Insurance</h3>
                     <p class="timeline-role">Data Engineer</p>
-                    <p class="timeline-period">2025 – Present</p>
+                    <p class="timeline-period">Jan 2025 – Present • Bloomington, IL</p>
                     <ul class="timeline-highlights">
-                        <li>Designed enterprise-grade ETL pipelines with automated reporting</li>
-                        <li>Migrated legacy reporting to cloud-native BI solutions</li>
-                        <li>Implemented AI-driven classification systems</li>
+                        <li>Building enterprise ETL pipelines with Azure Data Factory, SSIS, and Databricks</li>
+                        <li>Leveraging Snowflake Cortex AI and Azure AI Services for intelligent document classification and NLP-based metadata enrichment</li>
+                        <li>Migrated legacy reporting (Argos, Crystal Reports) to Azure SSRS with role-based access</li>
+                        <li>Implemented dbt models on Snowflake and Synapse for version-controlled transformations</li>
                     </ul>
                 </div>
             </div>
@@ -958,12 +1003,12 @@
                 <div class="timeline-dot"></div>
                 <div class="timeline-content">
                     <h3 class="timeline-company">DePaul University</h3>
-                    <p class="timeline-role">Graduate Data Analyst</p>
-                    <p class="timeline-period">2024</p>
+                    <p class="timeline-role">Graduate Data Analyst/Engineer</p>
+                    <p class="timeline-period">Feb 2024 – Nov 2024 • Chicago, IL</p>
                     <ul class="timeline-highlights">
-                        <li>Automated federal compliance reporting for 21K+ student records</li>
-                        <li>Built serverless Azure workflows for data processing</li>
-                        <li>Developed real-time dashboards for enrollment analytics</li>
+                        <li>Automated federal compliance reporting for 21K+ student records using Azure serverless workflows</li>
+                        <li>Built real-time Power BI dashboards for enrollment, financial aid, and academic performance</li>
+                        <li>Implemented CI/CD pipelines with Azure DevOps and GitHub Actions</li>
                     </ul>
                 </div>
             </div>
@@ -972,12 +1017,13 @@
                 <div class="timeline-dot"></div>
                 <div class="timeline-content">
                     <h3 class="timeline-company">Cardinal Healthcare</h3>
-                    <p class="timeline-role">Data Engineer</p>
-                    <p class="timeline-period">2022 – 2023</p>
+                    <p class="timeline-role">Data Engineer (via Tata Consultancy Services)</p>
+                    <p class="timeline-period">Jul 2022 – Jan 2023 • Hyderabad, India</p>
                     <ul class="timeline-highlights">
-                        <li>Built PySpark ML pipelines for predictive analytics</li>
-                        <li>Integrated generative AI for automated summaries</li>
-                        <li>Implemented streaming pipelines for real-time inventory tracking</li>
+                        <li>Designed Azure Lakehouse with PySpark and Delta Lake using Medallion architecture</li>
+                        <li>Built PySpark ML pipelines for predictive forecasting and inventory optimization</li>
+                        <li>Integrated Azure OpenAI for automated clinical report summaries</li>
+                        <li>Enforced HIPAA compliance with PHI tokenization and encryption</li>
                     </ul>
                 </div>
             </div>
@@ -986,12 +1032,13 @@
                 <div class="timeline-dot"></div>
                 <div class="timeline-content">
                     <h3 class="timeline-company">Novartis Pharmaceuticals</h3>
-                    <p class="timeline-role">Data Engineer</p>
-                    <p class="timeline-period">2019 – 2022</p>
+                    <p class="timeline-role">Data Engineer (via Infosys)</p>
+                    <p class="timeline-period">May 2019 – Jul 2022 • Hyderabad, India</p>
                     <ul class="timeline-highlights">
-                        <li>Migrated terabytes of clinical trial data to AWS</li>
-                        <li>Developed NLP solutions for medical entity extraction</li>
-                        <li>Built scalable data lake architecture</li>
+                        <li>Migrated terabytes of clinical trial data from on-prem to AWS (Redshift, S3, Snowflake)</li>
+                        <li>Built real-time pipelines with AWS Kinesis and Kafka for lab test monitoring</li>
+                        <li>Deployed ML models in SageMaker using scikit-learn and XGBoost for adverse event detection</li>
+                        <li>Leveraged Amazon Comprehend Medical for NLP entity extraction from clinical notes</li>
                     </ul>
                 </div>
             </div>
@@ -999,13 +1046,48 @@
             <div class="timeline-item">
                 <div class="timeline-dot"></div>
                 <div class="timeline-content">
-                    <h3 class="timeline-company">Tecplix</h3>
-                    <p class="timeline-role">ML Engineering Intern</p>
-                    <p class="timeline-period">2018 – 2019</p>
+                    <h3 class="timeline-company">Tecplix Technologies</h3>
+                    <p class="timeline-role">AI Data Analyst</p>
+                    <p class="timeline-period">Dec 2018 – Apr 2019 • Bangalore, India</p>
                     <ul class="timeline-highlights">
-                        <li>Built BERT-based news summarization models</li>
-                        <li>Developed geospatial time series forecasting</li>
-                        <li>Implemented NLP pipelines for text analysis</li>
+                        <li>Built BERT-based news summarization on AWS SageMaker (100K+ articles, ROUGE 0.75)</li>
+                        <li>Developed geospatial time series forecasting for oceanographic data</li>
+                        <li>Processed large-scale data on AWS EMR with PySpark</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Education Section -->
+    <section id="education" style="padding: 4rem 5%;">
+        <div class="section-header">
+            <div class="section-badge">Academic Background</div>
+            <h2 class="section-title">Education</h2>
+        </div>
+        <div class="timeline" style="max-width: 900px; margin: 0 auto;">
+            <div class="timeline-item">
+                <div class="timeline-dot"></div>
+                <div class="timeline-content">
+                    <h3 class="timeline-company">DePaul University</h3>
+                    <p class="timeline-role">Master of Science in Data Science</p>
+                    <p class="timeline-period">Mar 2023 – Nov 2024 • Chicago, IL</p>
+                    <ul class="timeline-highlights">
+                        <li>Concentration: Data Modeling/Warehousing and Database Administration</li>
+                        <li>GPA: 3.8/4.0</li>
+                        <li>Relevant Coursework: Data Engineering, Machine Learning, Big Data Technologies, Cloud Computing</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="timeline-item">
+                <div class="timeline-dot"></div>
+                <div class="timeline-content">
+                    <h3 class="timeline-company">Shri Vishnu Engineering College for Women</h3>
+                    <p class="timeline-role">Bachelor of Technology in Electrical and Electronics Engineering</p>
+                    <p class="timeline-period">Jul 2015 – Apr 2019 • India</p>
+                    <ul class="timeline-highlights">
+                        <li>GPA: 7.8/10.0</li>
+                        <li>Built foundation in analytical thinking and problem-solving</li>
                     </ul>
                 </div>
             </div>
@@ -1022,6 +1104,11 @@
             </p>
         </div>
         <div class="contact-grid">
+            <!-- <div class="contact-card">
+                <div class="contact-icon">📱</div>
+                <h3>Phone</h3>
+                <a href="tel:+13127147249">+1 (312) 714-7249</a>
+            </div> -->
             <div class="contact-card">
                 <div class="contact-icon">📧</div>
                 <h3>Email</h3>
@@ -1045,7 +1132,7 @@
         <p>© 2025 Sowjanya Gangumolu. Designed with precision and creativity.</p>
     </footer>
 
-    <script>
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
         // Smooth scroll animation
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
             anchor.addEventListener('click', function (e) {
@@ -1095,13 +1182,4 @@
                 const navLink = document.querySelector(`.nav-links a[href="#${sectionId}"]`);
 
                 if (navLink && scrollY > sectionTop && scrollY <= sectionTop + sectionHeight) {
-                    document.querySelectorAll('.nav-links a').forEach(link => {
-                        link.style.color = 'var(--text-secondary)';
-                    });
-                    navLink.style.color = 'var(--accent-primary)';
-                }
-            });
-        });
-    </script>
-</body>
-</html>
+                    document.querySelectorAll('.na
